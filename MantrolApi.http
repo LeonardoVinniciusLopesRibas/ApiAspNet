@@ -1,0 +1,6 @@
+@MantrolApi_HostAddress = http://localhost:5277
+
+GET {{MantrolApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
